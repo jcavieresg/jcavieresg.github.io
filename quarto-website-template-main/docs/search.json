@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Joaquin Cavieres",
+    "section": "",
+    "text": "About me!\nI’m a Postdoctoral Fellow in the Geoinformatics-Big Spatial Data group lead by Meng Lu at Bayreuth University. We seek to propose geostatistical and machine learning algorithms for spatial and spatiotemporal models through an efficient computation.\nMy Ph.D thesis was supervised by Javier Contreras Reyes and Michael Karkulik, proposing different computational methods to incorporate a smoothing thin plate spline in spatial models.\nDuring my Ph.D studies I did two very interesting internships; the first one in the Probabilistic Machine Learning group at Aalto University, under the supervision of Aki Vehtari. The second one was in the Computer, Electrical, and Mathematical Sciences and Engineering Division at KAUST, under the supervision of Paula Moraga.\nI have also worked as Data Scientist in the retail (Cencosud-Scotiabank) and the forest industry (Arauco Celulosa).\nGenerally I use R, Template Model Builder (\\(\\texttt{TMB}\\)) and \\(\\texttt{Stan}\\) to develop probabilistic models, but I am also interested in numerical methods (from a deterministic approach) for spatial models using \\(\\texttt{Rcpp/RcppArmadillo}\\).\nPlease feel free to contact me if you have any questions or would like to discuss potential projects."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+  },
+  {
+    "objectID": "projects/index.html#the-history-of-the-war-of-the-ring",
+    "href": "projects/index.html#the-history-of-the-war-of-the-ring",
+    "title": "Projects",
+    "section": "The History of the War of the Ring",
+    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Photography",
+    "section": "",
+    "text": "View the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Joaquin Cavieres",
+    "section": "",
+    "text": "About me!\nI’m a Postdoctoral Fellow in the Geoinformatics-Big Spatial Data group lead by Meng Lu at Bayreuth University. We seek to propose geostatistical and machine learning algorithms for spatial and spatiotemporal models through an efficient computation.\nMy Ph.D thesis was supervised by Javier Contreras Reyes and Michael Karkulik, proposing different computational methods to incorporate a smoothing thin plate spline in spatial models.\nDuring my Ph.D studies I did two very interesting internships; the first one in the Probabilistic Machine Learning group at Aalto University, under the supervision of Aki Vehtari. The second one was in the Computer, Electrical, and Mathematical Sciences and Engineering Division at KAUST, under the supervision of Paula Moraga.\nI have also worked as Data Scientist in the retail (Cencosud-Scotiabank) and the forest industry (Arauco Celulosa).\nGenerally I use R, Template Model Builder (\\(\\texttt{TMB}\\)) and \\(\\texttt{Stan}\\) to develop probabilistic models, but I am also interested in numerical methods (from a deterministic approach) for spatial models using \\(\\texttt{Rcpp/RcppArmadillo}\\).\nPlease feel free to contact me if you have any questions or would like to discuss potential projects."
+  }
+]
